@@ -1,7 +1,7 @@
 ### Opa, traquilo? Pode me chamar de Fer 😄
 
-• 👩‍💻 Cursando Engenharia de Software
-• 📚 Estudando o mundo back-end
+<p>• 👩‍💻 Cursando Engenharia de Software
+• 📚 Estudando o mundo back-end</p>
 
 
 <img align="right" src="https://media.discordapp.net/attachments/924384834225319986/952725127626375188/yooout.gif?width=256&height=256">
