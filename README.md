@@ -1,6 +1,6 @@
 ### Opa, traquilo? Pode me chamar de Fer 😄
 
-• 👩‍💻 Cursando Engenharia de Software 
+• 👩‍💻 Cursando Engenharia de Software
 • 📚 Estudando o mundo back-end
 
 
