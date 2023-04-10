@@ -6,13 +6,13 @@
 
 #
 
-<img src="https://media.discordapp.net/attachments/947502692983509033/1095057216391872552/enomenda_fer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="bencke-dev" />
+<img src="https://media.discordapp.net/attachments/947502692983509033/1095057216391872552/enomenda_fer.png" min-width="33.3%" max-width="33.3%" width="33.3%" align="right" alt="bencke-dev" />
 
 <p align="center"><br><br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benckedev&show_icons=true&locale=en&layout=compact&theme=dark" width="400px" align="left" alt="benckedev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benckedev&show_icons=true&locale=en&layout=compact&theme=dark" width="33.3%" align="left" alt="benckedev" />
 
-<p align="left" width="400px">
+<p align="left" width="33.3%">
 <a align="left" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="64px" height="64px"/></a>
 <a align="left" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
