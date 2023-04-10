@@ -7,4 +7,6 @@
     <li>📚 Estudando o mundo back-end</li>
 </ul>
 
+<image src="https://media.discordapp.net/attachments/947502692983509033/1095057216391872552/enomenda_fer.png">
+
 ![Snake animation](https://github.com/yooout/yooout/blob/output/github-contribution-grid-snake.svg)
