@@ -8,7 +8,7 @@
     <li>📚 Estudando o mundo back-end</li>
 </ul>
 
-<div style="float: right">
+<div>
     <image style="width: 256px; height: 256px;"
         src="https://media.discordapp.net/attachments/947502692983509033/1095057216391872552/enomenda_fer.png">
 </div>
