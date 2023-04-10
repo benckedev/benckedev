@@ -8,7 +8,7 @@
 </ul>
 
 <div style="display: inline-block; width: 90%;" >
-<image style="width: 256px; heigth: 256px;" src="https://media.discordapp.net/attachments/947502692983509033/1095057216391872552/enomenda_fer.png">
+<image style="width: 256px; height: 256px;" src="https://media.discordapp.net/attachments/947502692983509033/1095057216391872552/enomenda_fer.png">
 </div>
     
 ![Snake animation](https://github.com/yooout/yooout/blob/output/github-contribution-grid-snake.svg)
