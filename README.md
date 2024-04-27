@@ -4,11 +4,7 @@
 
 - 📚 I’m currently studying **software engineer**
 
-#
-
-<img src="https://media.discordapp.net/attachments/947502692983509033/1095057216391872552/enomenda_fer.png" min-width="33.3%" max-width="33.3%" width="33.3%" align="right" alt="bencke-dev" />
-
-<p align="center"><br><br><br><br>
+<p align="center"><br
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benckedev&show_icons=true&locale=en&layout=compact&theme=dark" width="33.3%" align="left" alt="benckedev" />
 
