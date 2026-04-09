@@ -1,21 +1,11 @@
-<h1 align="left">Hi 👋, I'm benckedev</h1>
+# Olá me chamo Fernando e seja bem-vindo(a) ao meu GitHub! 👋
 
-> My name is Fernando Bencke, I live in Rio Grande do Sul - Brazil, I've been in this world called the internet since I was 13 years old, and at the same age I discovered programming and I simply fell in love.
+Meu nome é Fernando Bencke, tenho 21 anos e sou formado em Engenharia de Software.
 
-- 📚 I’m currently studying **software engineer**
+Em meus repositórios você irá encontrar alguns projetos que fiz durante minha vida e resolvi compartilhar com o restante da comunidade tech.
 
-<p align="center"><br
+## 🛠 Skills
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benckedev&show_icons=true&locale=en&layout=compact&theme=dark" width="33.3%" align="left" alt="benckedev" />
-
-<p align="center" width="33.3%">
-<a align="center" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42px" height="42px"/></a>
-<a align="center" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42px" height="42px"/></a>
-<a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42px" height="42px"/></a>
-<a align="center" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42px" height="42px"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,java,lua,redis,mysql,postgres,mongodb&perline=5&theme=light" />
 </p>
-</p>
-
-<br><br>
