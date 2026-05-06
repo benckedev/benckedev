@@ -1,4 +1,4 @@
-# Olá me chamo Fernando e seja bem-vindo(a) ao meu GitHub! 👋
+# Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
 Meu nome é Fernando Bencke, tenho 21 anos e sou formado em Engenharia de Software.
 
