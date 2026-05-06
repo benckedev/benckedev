@@ -4,6 +4,8 @@ Meu nome é Fernando Bencke, tenho 21 anos e sou formado em Engenharia de Softwa
 
 Em meus repositórios você irá encontrar alguns projetos que fiz durante minha vida e resolvi compartilhar com o restante da comunidade tech.
 
+Tenho como foco a **automação de processos** e implementação de **inteligência artificial** de forma __inteligente__ `(e barata)` no dia a dia do trabalho.
+
 ## 🛠 Skills
 
 <p align="center">
